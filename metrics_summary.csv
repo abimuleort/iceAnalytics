@@ -1,0 +1,11 @@
+metric,value
+rows_raw,8782.0
+duplicates_removed,172.0
+rows_core,8509.0
+rows_quarantine,101.0
+quarantine_pct,1.17
+days_mismatch_pct,50.57
+avg_votes_row,6.91
+avg_votes_user,6.89
+top1pct_posts_pct,5.79
+top1pct_votes_pct,6.18
